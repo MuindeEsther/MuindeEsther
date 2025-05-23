@@ -8,7 +8,7 @@ I am Passionate and results-driven Data Scientist with a strong background in ma
 * * 🌍  I'm based in Nairobi, Kenya
 * * 🖥️  See my portfolio at [Muinde Ndunge](http://https://www.datascienceportfol.io/MuindeNdunge)
 * * ✉️  You can contact me at [muindendunge680@gmail.com](mailto:muindendunge680@gmail.com* )
-* * 🚀  I'm currently working on [Bank churn rate classification using neural networks](http://https://github.com/MuindeEsther/Bank-churn-rate-classification)
+* * 🚀  I'm currently working on Customer Churn and Segmentation Analysis- Lofty Corban Investments
 * * 🧠  I'm learning Deep Learning AI
 * * 🤝  I'm open to collaborating on Use of AI in marketing, finance and Banking
 * * ⚡  I love Fashion Tech
