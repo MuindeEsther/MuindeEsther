@@ -6,7 +6,7 @@ Data Analyst|Data Scientist|Machine Learning Engineer|AI Enthusiast
 
 I am Passionate and results-driven Data Scientist with a strong background in mathematics, statistics, and computer science. I have experienced in leveraging advanced analytics, machine learning, and deep learning techniques to extract meaningful insights from complex datasets. I am dedicated to driving innovation and solving real-world problems through data-driven decision-making.
 * * 🌍  I'm based in Nairobi, Kenya
-* * 🖥️  See my portfolio at [Muinde Ndunge](http://https://www.datascienceportfol.io/MuindeNdunge)
+* * 🖥️  See my portfolio at [Muinde Ndunge](datascienceportfol.io/MuindeNdunge)
 * * ✉️  You can contact me at [muindendunge680@gmail.com](mailto:muindendunge680@gmail.com* )
 * * 🚀  I'm currently working on Customer Churn and Segmentation Analysis- Lofty Corban Investments
 * * 🧠  I'm learning Deep Learning AI
