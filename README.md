@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Hi my name is Esther Ndunge Muinde
 
