@@ -1,4 +1,4 @@
-# Hi there, I'm Esther Ndunge 👋
+# Hi there, I'm Muinde Esther Ndunge 
 
 ## Data Scientist | ML Engineer | Financial Analytics Specialist
 
