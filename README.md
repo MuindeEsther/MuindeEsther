@@ -1,24 +1,38 @@
-# Hi there, I'm Muinde Esther Ndunge 
+# Hi, I'm Muinde Esther Ndunge 👋
 
-## Data Scientist | ML Engineer | Financial Analytics Specialist
+**Lead Analyst (RevOps) at Avenews Nairobi, Kenya** 
+I build the data infrastructure a lending business runs on: acquisition-to-repayment funnel analytics, cohort analysis, KPI scorecards, and partner performance reporting.
+My edge is the intersection most analysts don't have: **fintech lending domain knowledge + hands-on data infrastructure**. I work daily with CRM and analytics data end-to-end — from SQL query tables and ETL workflows to the dashboards leadership actually uses to make credit and growth decisions.
 
-I'm a data scientist with 2+ years of experience transforming data into actionable business insights. I specialize in building predictive models, optimizing data pipelines, and creating executive dashboards that drive strategic decisions in financial services.
+Currently expanding into **machine learning and AI-assisted analytics**: building LLM agents that automate reporting workflows, and working toward ML-based credit-scoring and model-monitoring projects for African financial services.
 
-Currently working as a Customer Service Officer at Lofty-Corban Investments, where I design Power BI dashboards and optimize ETL processes for enterprise-level business intelligence.
+## 🔧 What I work with
 
-### 🎯 What I Do
+- **Core:** SQL, Python (pandas), Zoho Analytics, Power BI, Excel
+- **Automation & integration:** n8n (CRM ↔ analytics workflows), REST APIs, Claude API
+- **Building & learning now:** scikit-learn, Streamlit, LLM agent evaluation
 
-- **Machine Learning**: Building predictive models with 85%+ accuracy for customer churn, segmentation, and lifetime value analysis
-- **Data Engineering**: Designing and optimizing ETL pipelines processing 10,000+ records with improved efficiency
-- **Business Intelligence**: Creating interactive dashboards that reduce manual reporting time by 60%
-- **Financial Analytics**: Generating insights that inform strategic decisions and drive revenue growth
+## 📌 Featured work
 
-### 💼 Professional Highlights
+| Project | What it shows |
+|---|---|
+| [Stock-Market-Analysis](https://github.com/MuindeEsther/Stock-Market-Analysis) | Streamlit dashboard for investment decision support — problem framing, research methodology, feature matrix, tests |
+| Funnel commentary agent *(in progress — Oct–Nov 2026)* | LLM agent that drafts weekly funnel commentary from analytics exports, with documented failure modes, guardrails and eval checks |
+| Credit-scoring model *(planned — Jan 2027)* | End-to-end ML model on a public lending dataset |
+| Model monitoring dashboard *(planned — early 2027)* | Drift, approval-rate disparity and calibration monitoring for a credit-scoring model |
 
-- 📊 Built customer churn prediction model reducing churn by **18%** in financial services
-- 🚀 Optimized ETL pipelines improving data accuracy by **40%**
-- 📈 Developed analytics solutions increasing client engagement by **25%**
-- 💰 Created customer lifetime value model driving targeted campaigns that increased revenue by **22%**
+*The in-progress projects are part of a public learning roadmap toward ML engineering in African fintech — follow along.*
+
+## 🎓 Background
+
+- Certifications in data analysis and back-end engineering
+- BSc Applied Statistics with Computing
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-ndunge-0b1535196/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muindendunge680@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/essy_simbrosa)
 
 ### 🛠️ Tech Stack
 
@@ -46,32 +60,6 @@ Currently working as a Customer Service Officer at Lofty-Corban Investments, whe
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🚀 Featured Projects
-
-#### 🎯 Customer Churn Prediction Model
-Predictive ML model achieving **85% accuracy** for financial services customer churn
-- **Tech**: Python, XGBoost, Scikit-learn, SQL
-- **Impact**: Reduced customer churn by 18%, processed 25,000+ records with 30+ features
-- **Key Skills**: Feature engineering, model optimization, business insights delivery
-
-#### 📊 Customer Lifetime Value Analysis
-Advanced segmentation model identifying high-value customers for targeted marketing
-- **Tech**: Python, Random Forest, XGBoost, Statistical Analysis
-- **Impact**: Increased revenue by 22% through data-driven marketing campaigns
-- **Key Skills**: Customer segmentation, predictive analytics, strategic recommendations
-
-#### 📈 Sales Analytics Dashboard
-Interactive Power BI dashboard analyzing revenue drivers across 5,000+ transactions
-- **Tech**: Power BI, Excel, SQL, Python
-- **Impact**: Reduced manual analysis time by 45%, enabled executive decision-making
-- **Key Skills**: Data visualization, trend analysis, reporting automation
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-ndunge-0b1535196/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muindendunge680@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/essy_simbrosa)
-
 ### 📊 GitHub Stats
 
 ![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindeEsther&show_icons=true&theme=radical)
@@ -79,9 +67,6 @@ Interactive Power BI dashboard analyzing revenue drivers across 5,000+ transacti
 ### 🌱 Currently Learning
 
 - Advanced MLOps and model deployment pipelines
-- Cloud architecture on AWS
-- Deep learning for time series forecasting
-- Backend engineering with ALX
 
 ---
 
